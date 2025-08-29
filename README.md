@@ -42,13 +42,3 @@
 ## 🔐 Get in Touch
 
 - 📧 Email: nakulchahakar04@gmail.com
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nakul0&theme=github-compact" alt="activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F8EDC&height=100&section=footer"/>
-</p>
